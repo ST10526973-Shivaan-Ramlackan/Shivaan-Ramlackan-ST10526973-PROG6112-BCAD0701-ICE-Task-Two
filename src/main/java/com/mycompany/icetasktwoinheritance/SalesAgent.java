@@ -25,7 +25,7 @@ package com.mycompany.icetasktwoinheritance;
             double totalEarnings = baseSalary + comission;
             
             System.out.println("=========================");
-            System.out.println("    Sales Agent Report");
+            System.out.println("Sales Agent Report");
             System.out.println("=========================");
             System.out.println("Agent  name: " + name);
             System.out.println("Employee ID: " + employeeID);
